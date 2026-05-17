@@ -106,9 +106,9 @@ Beyond code, I hold an **M.S. in Aquaculture**, which gives me a unique perspect
 | Project | Description | Tech |
 |--------|-------------|------|
 | [sun-cart](https://github.com/anika-chhoa/sun-cart) | Full-stack e-commerce application | JavaScript · MERN |
-| [keen-keep-next](https://github.com/anika-chhoa/keen-keep-next) | Next.js project | JavaScript |
-| [dragon-news](https://github.com/anika-chhoa/dragon-news) | News application | JavaScript |
-| [English-Janala](https://github.com/anika-chhoa/English-Janala) | Language learning app | HTML |
+| [dragon-news](https://github.com/anika-chhoa/dragon-news) | News application | JavaScript · MERN  |
+| [keen-keep-next](https://github.com/anika-chhoa/keen-keep-next) | React project | JavaScript |
+
 
 ---
 
