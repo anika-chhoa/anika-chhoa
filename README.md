@@ -113,5 +113,5 @@ Beyond code, I hold an **M.S. in Aquaculture**, which gives me a unique perspect
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fce7f3,50:ede9fe,100:dbeafe&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fce7f3,50:ede9fe,100:dbeafe&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%8C%B8%20Let's%20build%20something%20amazing%20together.&fontSize=16&fontColor=4f46e5&fontAlignY=65&animation=fadeIn" />
 </p>
