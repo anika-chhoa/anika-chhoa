@@ -105,6 +105,7 @@ Beyond code, I hold an **M.S. in Aquaculture**, which gives me a unique perspect
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [drive-fleet](https://github.com/anika-chhoa/drive-fleet.git) | full-stack car rental and vehicle booking platform | JavaScript · MERN |
 | [sun-cart](https://github.com/anika-chhoa/sun-cart) | Full-stack e-commerce application | JavaScript · MERN |
 | [dragon-news](https://github.com/anika-chhoa/dragon-news) | News application | JavaScript · MERN  |
 | [keen-keep-next](https://github.com/anika-chhoa/keen-keep-next) | React project | JavaScript |
