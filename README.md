@@ -105,7 +105,7 @@ Beyond code, I hold an **M.S. in Aquaculture**, which gives me a unique perspect
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [SmartNest](https://github.com/anika-chhoa/smart-nest)) | Full Stack Property Rental and Booking Platform | MERN |
+| [SmartNest](https://github.com/anika-chhoa/smart-nest) | Full Stack Property Rental and Booking Platform | MERN |
 | [drive-fleet](https://github.com/anika-chhoa/drive-fleet.git) | Full Stack Car Rental and Booking Platform | MERN |
 | [sun-cart](https://github.com/anika-chhoa/sun-cart) | Full-stack E-commerce Application | Next JS |
 | [dragon-news](https://github.com/anika-chhoa/dragon-news) | News application | Next JS  |
