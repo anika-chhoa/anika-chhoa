@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/drvj2pqs7/image/upload/v1783584686/professional_github_profile_banner_for_software_developer_anika_mizan._light_vkvbpb.png" />
+  <img
+    src="https://res.cloudinary.com/drvj2pqs7/image/upload/v1783584686/professional_github_profile_banner_for_software_developer_anika_mizan._light_vkvbpb.png"
+    alt="Anika Mizan GitHub Banner"
+    width="900"
+    height="250"
+  />
 </p>
 
 <h1 align="center">Anika Mizan</h1>
