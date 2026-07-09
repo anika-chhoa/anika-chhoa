@@ -24,9 +24,7 @@
 
 ## About Me
 
-I'm a passionate self-driven developer building modern full-stack web applications with the **MERN stack**. I love crafting clean, responsive, and user-friendly interfaces — and I'm always leveling up my problem-solving skills along the way.
-
-Beyond code, I hold an **M.S. in Aquaculture**, which gives me a unique perspective in data analysis, structured research, and scientific thinking. I believe great software, like great science, is built on curiosity and precision.
+I'm a **MERN Stack** Developer passionate about building responsive, scalable, and user-friendly web applications. I enjoy turning ideas into real-world solutions using React, Next.js, Node.js, and MongoDB. With a background in aquaculture research, I bring strong analytical thinking and problem-solving skills to software development.
 
 ---
 
@@ -34,7 +32,7 @@ Beyond code, I hold an **M.S. in Aquaculture**, which gives me a unique perspect
 
 - Building **[sun-cart](https://github.com/anika-chhoa/sun-cart)** — a full-stack e-commerce app using the MERN Stack
 - Crafting my **[portfolio](https://github.com/anika-chhoa/portfolio-anika)** website
-- Practicing backend with **[express-user-management](https://github.com/anika-chhoa/express-user-management)**
+- Practicing backend with **[express-user-managemen](https://github.com/anika-chhoa/express-user-management)**
 - Exploring **Next.js** through projects like keen-keep-next & app-store-next
 - Sharpening JavaScript algorithm logic and clean UI layouts
 
