@@ -32,7 +32,7 @@ I'm a **MERN Stack** Developer passionate about building responsive, scalable, a
 
 - Building **[sun-cart](https://github.com/anika-chhoa/sun-cart)** — a full-stack e-commerce app using the MERN Stack
 - Crafting my **[portfolio](https://github.com/anika-chhoa/portfolio-anika)** website
-- Practicing backend with **[express-user-managemen](https://github.com/anika-chhoa/express-user-management)**
+- Practicing backend with **[Life-os-Backend-]((https://github.com/Dawood679/Life-os-Backend-.git)**
 - Exploring **Next.js** through projects like keen-keep-next & app-store-next
 - Sharpening JavaScript algorithm logic and clean UI layouts
 
