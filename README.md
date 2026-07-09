@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,50:ede9fe,100:fce7f3&height=220&section=header&text=Hi%20there,%20I'm%20Anika%20%F0%9F%91%8B&fontSize=48&fontColor=1e3a5f&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Learner%20%7C%20Aquaculture%20Researcher&descAlignY=58&descSize=16&descColor=4f6b8a](https://res.cloudinary.com/drvj2pqs7/image/upload/v1783584686/professional_github_profile_banner_for_software_developer_anika_mizan._light_vkvbpb.png)" />
+  <img src="https://res.cloudinary.com/drvj2pqs7/image/upload/v1783584686/professional_github_profile_banner_for_software_developer_anika_mizan._light_vkvbpb.png" />
 </p>
 
 <h1 align="center">Anika Mizan</h1>
