@@ -81,7 +81,7 @@ I'm a **MERN Stack** Developer passionate about building responsive, scalable, a
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
   </a>&nbsp;&nbsp;
   <a href="https://m.facebook.com/jonaki.chhoa.9/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="42" />
+    <img src="https://store-images.s-microsoft.com/image/apps.30645.9007199266245907.cb06f1f9-9154-408e-b4ef-d19f2325893b.ac3b465e-4384-42a8-9142-901c0405e1bc" height="42" />
   </a>&nbsp;&nbsp;
   <a href="mailto:chhoa.anika07@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="42" />
