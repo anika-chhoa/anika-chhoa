@@ -80,6 +80,9 @@ I'm a **MERN Stack** Developer passionate about building responsive, scalable, a
   <a href="https://m.facebook.com/jonaki.chhoa.9/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-eff6ff?style=for-the-badge&logo=facebook&logoColor=1877f2" />
   </a>
+  <a href="https://github.com/anika-chhoa" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+  </a>
   <a href="mailto:chhoa.anika07@gmail.com">
     <img src="https://img.shields.io/badge/Email-fff1f2?style=for-the-badge&logo=gmail&logoColor=be123c" />
   </a>
