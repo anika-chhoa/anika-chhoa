@@ -74,17 +74,17 @@ I'm a **MERN Stack** Developer passionate about building responsive, scalable, a
 ## Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/anika-mizan-chhoa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-eff6ff?style=for-the-badge&logo=linkedin&logoColor=1d4ed8" />
-  </a>
-  <a href="https://m.facebook.com/jonaki.chhoa.9/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-eff6ff?style=for-the-badge&logo=facebook&logoColor=1877f2" />
-  </a>
   <a href="https://github.com/anika-chhoa" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=github" height="42" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/anika-mizan-chhoa/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+  </a>&nbsp;&nbsp;
+  <a href="https://m.facebook.com/jonaki.chhoa.9/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="42" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:chhoa.anika07@gmail.com">
-    <img height="20" width="20 src="https://img.shields.io/badge/Email-fff1f2?style=for-the-badge&logo=gmail&logoColor=be123c" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
   </a>
 </p>
 
