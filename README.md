@@ -10,7 +10,7 @@
 <h1 align="center">Anika Mizan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
